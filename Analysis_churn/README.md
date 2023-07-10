@@ -34,3 +34,6 @@
 2. Исследуйте баланс классов, обучите модель без учёта дисбаланса. Кратко опишите выводы.
 3. Улучшите качество модели, учитывая дисбаланс классов. Обучите разные модели и найдите лучшую. Кратко опишите выводы.
 4. Проведите финальное тестирование.
+
+## Используемые библиотеки
+*pandas*, *numpy*, *matplotlib*, *seaborn*, *sklearn.model_selection*, *sklearn.metrics*, *sklearn.utils*, *sklearn.preprocessing*, *sklearn.linear_model*, *sklearn.ensemble*, *sklearn.tree*
