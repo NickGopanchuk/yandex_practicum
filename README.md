@@ -1,1 +1,1 @@
-# yandex_practicum
+# Несколько проектов с обучения по специальности DS в Yandex Practicum
